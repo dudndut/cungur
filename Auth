@@ -1,0 +1,1 @@
+.\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
